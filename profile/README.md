@@ -28,6 +28,6 @@ Diese Organisation kann verschiedene Repository für einzelne Projekte enthalten
 Jeder Projektordner enthält bei Bedarf eine eigene `README.md` mit Details zur jeweiligen Anwendung oder Idee.
 
 Für Projekte in verschiedenen Modulen werden Teams angelegt in welchen dann gearbeitet werden kann
----
+
 
 📬 Bei Fragen oder Interesse an einer Mitarbeit kontaktiere uns gerne.
