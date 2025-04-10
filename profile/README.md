@@ -1,4 +1,4 @@
-# 🧑‍💻 HSBI Studentengruppe – Offizielles Repository
+# 🧑‍💻 HSBI Informatikjahrgang 2024 – Die Organisation
 
 Willkommen im offiziellen GitHub-Repository unserer Studentengruppe an der Hochschule Bielefeld (HSBI).  
 Hier bündeln wir unsere Projekte, Ideen und den Code rund um unsere Aktivitäten im Studium.
@@ -24,9 +24,10 @@ Dieses Repository richtet sich vor allem an andere Studierende der HSBI, die Int
 
 ## 📂 Struktur
 
-Dieses Repository kann verschiedene Unterordner für einzelne Projekte enthalten.  
+Diese Organisation kann verschiedene Repository für einzelne Projekte enthalten.  
 Jeder Projektordner enthält bei Bedarf eine eigene `README.md` mit Details zur jeweiligen Anwendung oder Idee.
 
+Für Projekte in verschiedenen Modulen werden Teams angelegt in welchen dann gearbeitet werden kann
 ---
 
-📬 Bei Fragen oder Interesse an einer Mitarbeit kontaktiere uns gerne per Mail oder direkt über GitHub.
+📬 Bei Fragen oder Interesse an einer Mitarbeit kontaktiere uns gerne.
